@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @helia77
+- 👀 I’m interested in programming (obviously)
+- 🌱 I’m currently learning LabVIEW and how to work w/ LoRa modules and NodeMCU
+- 💞️ I’m looking to collaborate on IoT projects.
+- 📫 How to reach me -> send me an e-mail to helia_g@yahoo.com and I'll respond shortly!
