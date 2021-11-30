@@ -6,4 +6,4 @@
 
 ⚡ Fun Fact: Ich liebe die deutsche Sprache, obwohl ich kein Deutscher bin! x_x
 
-My ongoing project: <b> DAQ-LoRa </b> + <b> Hande-Gesture-Detector </b>
+My ongoing project: <b> DAQ-LoRa </b>
